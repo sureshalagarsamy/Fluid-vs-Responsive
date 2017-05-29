@@ -13,6 +13,6 @@ Additionaly please check the below animation to find the difference between Repo
 
 ###### Responsive on top, Adaptive on bottom #
 
-[![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26539751/bbeb9688-446b-11e7-90cf-1a85b5e9e132.jpg)](http://sureshalagarsamy.com/blog)
+[![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26540179/b6fd60fa-446d-11e7-813c-85d5bf8b7dae.png)](http://sureshalagarsamy.com/blog)
 
 
