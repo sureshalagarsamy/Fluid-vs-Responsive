@@ -11,7 +11,7 @@ Additionaly please check the below animation to find the difference between Repo
 
 [![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26539019/d0f14d60-4467-11e7-8353-ad54dd260e0a.gif)](http://sureshalagarsamy.com/blog)
 
-###### Responsive on top, Adaptive on bottom #
+###### Fluid on top, Adaptive/Responsive on bottom #
 
 [![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26540179/b6fd60fa-446d-11e7-813c-85d5bf8b7dae.png)](http://sureshalagarsamy.com/blog)
 
