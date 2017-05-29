@@ -1,7 +1,5 @@
 # Fluid-vs-Responsive
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](http://sureshalagarsamy.com/blog)
-
 I am going to explain here about the difference between Fluid/liquid layout and Responsive design layout.
 | Fluid | Responsive |
 | ------ | ------ |
@@ -15,5 +13,3 @@ Additionaly please check the below animation to find the difference between Repo
 ###### Responsive on top, Adaptive on bottom #
 
 [![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26539751/bbeb9688-446b-11e7-90cf-1a85b5e9e132.jpg)](http://sureshalagarsamy.com/blog)
-
-
