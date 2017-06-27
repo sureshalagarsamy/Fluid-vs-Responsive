@@ -42,6 +42,3 @@ A combination of both these design tactics is the way to go. By using fluid desi
 
 
 
-[![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26540179/b6fd60fa-446d-11e7-813c-85d5bf8b7dae.png)](http://sureshalagarsamy.com/blog)
-
-
