@@ -11,7 +11,7 @@ Additionaly please check the below animation to find the difference between Repo
 
 [![N|Solid](https://cloud.githubusercontent.com/assets/6780840/26539019/d0f14d60-4467-11e7-8353-ad54dd260e0a.gif)](http://sureshalagarsamy.com/blog)
 
-###### Fluid on top, Adaptive/Responsive on bottom #
+###### Fluid on top, Responsive on bottom #
 
 There are an increasing number of websites that are becoming responsive.
 
